@@ -1,4 +1,4 @@
-<p align="center"><em>Hello, I'm NoughtQ! Nice to meet you~</em></p>
+<p align="center"><em>Hello, I'm NoughtQ! Nice to meet you</em>:wave:</p>
 
 <p align="center"><a href="https://note.noughtq.top">My Notebook</a></p>
 
