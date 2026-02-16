@@ -66,7 +66,7 @@ jobs:
           plugin_achievements_threshold: X
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           
           config_order: achievements, wakatime, base.metadata
           config_padding: 0, 8 + 11%
