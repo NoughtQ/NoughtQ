@@ -29,7 +29,10 @@
 
 ### Stats
 
-![Stats](./profile/stats.svg)
+<img  
+  alt="NoughtQ's Github Stats" 
+  src="https://github-readme-stats-five-nu-57.vercel.app/api?username=NoughtQ&show_icons=true&theme=tokyonight"
+/>
 
 ### Metrics
 
