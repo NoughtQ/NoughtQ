@@ -24,7 +24,7 @@ jobs:
       #     plugin_stars_limit: 3
       #     config_timezone: Asia/Shanghai
       - name: left
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
           config_timezone: Asia/Shanghai
 
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
