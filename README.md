@@ -34,6 +34,11 @@
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=NoughtQ&show_icons=true&theme=tokyonight"
 />
 
+
+### Contribution
+
+![gh-space-shooter](game.gif)
+
 ### Metrics
 
 <p align="center">
